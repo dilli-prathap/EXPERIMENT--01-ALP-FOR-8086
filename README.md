@@ -119,6 +119,8 @@ HLT;
 
 
 ## Result :
+
+Successfully executed ALP on fundamental arithmetic and logical operations
  
 
 
